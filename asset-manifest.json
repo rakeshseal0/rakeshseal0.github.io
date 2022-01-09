@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66262938.chunk.css",
+    "main.js": "/static/js/main.1bbbffb7.chunk.js",
+    "main.js.map": "/static/js/main.1bbbffb7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6c8d00a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6c8d00a9.js.map",
+    "static/js/2.f3065902.chunk.js": "/static/js/2.f3065902.chunk.js",
+    "static/js/2.f3065902.chunk.js.map": "/static/js/2.f3065902.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
+    "static/js/3.8f67c412.chunk.js": "/static/js/3.8f67c412.chunk.js",
+    "static/js/3.8f67c412.chunk.js.map": "/static/js/3.8f67c412.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.20b3dc7c.chunk.js": "/static/js/4.20b3dc7c.chunk.js",
+    "static/js/4.20b3dc7c.chunk.js.map": "/static/js/4.20b3dc7c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ce0614e75cc34a2eec29fde2ef33bd49.js": "/precache-manifest.ce0614e75cc34a2eec29fde2ef33bd49.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.66262938.chunk.css.map": "/static/css/main.66262938.chunk.css.map",
+    "static/js/2.f3065902.chunk.js.LICENSE.txt": "/static/js/2.f3065902.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/coursera.png": "/static/media/coursera.3952f41b.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/iemaward.png": "/static/media/iemaward.7bad3695.png",
+    "static/media/iemlogo.png": "/static/media/iemlogo.ff27700a.png",
+    "static/media/keysight-technologies--big.svg": "/static/media/keysight-technologies--big.214a8f2b.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/rodologo.png": "/static/media/rodologo.691fdc4c.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c8d00a9.js",
+    "static/js/2.f3065902.chunk.js",
+    "static/css/main.66262938.chunk.css",
+    "static/js/main.1bbbffb7.chunk.js"
+  ]
+}
